@@ -31,7 +31,6 @@ Der Computer wählt eine Zufalsszahl zwischen 1 bis 100, der Benutzer muss eine 
 | 3. | 4 | programm laufen lassen | es muss funktionieren
 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
