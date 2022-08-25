@@ -4,9 +4,7 @@ Sathana Suganthasri
 
 | Datum | Version | Zusammenfassung                 |
 |25.08.2022| 0.0.1 | Im PAP habe ich die Anweisungen hingeschrieben|
-| 25.08.2022 | 0.02- | Ein Projektdokument erstellt |
-
-
+|
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
@@ -29,7 +27,8 @@ Der Computer wählt eine Zufalsszahl zwischen 1 bis 100, der Benutzer muss eine 
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | 1.1  |programm starten|Console.Write("den Satz") | Wählen Sie eine Zahl aus zwischen 1 bis 100 |
-| 2. |              |         |                   |
+| 2. |  2  |Code eingeben mit Zufallszahl |Zufallszahl|
+| 3. | 4 | programm laufen lassen | es muss funktionieren
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
@@ -47,7 +46,7 @@ Der Computer wählt eine Zufalsszahl zwischen 1 bis 100, der Benutzer muss eine 
 | 2. | 01.09.2022 |Ich | Im visual Studio eo ein zugeben das der Computer eine Zufallszahl wählt |15min |
 | 3.| 01.09.2022 | Ich | So einzustellen ob das gewählt Zahl grösser oder kleiner sein soll | 20min |
 | 4.| 01.09.2022 | Ich | Das Programm laufen lassen, um zu schauen ob das bis jetzt fehlerfrei funktioniertm | 3min |
-| 8.| 01.09.2022 | Ich | Nach einem guten Ergebniss, möchte ich so einstellen, dass dezimalzahlen rauskommen | 30min |
+| 5.| 01.09.2022 | Ich | Nach einem guten Ergebniss, möchte ich so einstellen, dass man mit dezimalzahlen eingeben kann | 30min |
 
 Total: 
 
