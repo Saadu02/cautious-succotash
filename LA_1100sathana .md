@@ -49,7 +49,10 @@ Der Computer wählt eine Zufalsszahl zwischen 1 bis 100, der Benutzer muss eine 
 
 
 ## 2 Planen       bis 12
+
+
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
+| ---- | ----- | --------- | ------------ | ------------- |
 | 1. | 01.09.2022 | Ich| Im visual Studio stelle ich ein so das der Satz "Wähle eine Zahl aus zwischen 1 bis 100:" rauskommt.| 4min |
 | 2. | 01.09.2022 |Ich | Im visual Studio eo ein zugeben das der Computer eine Zufallszahl wählt |15min |
 | 3.| 01.09.2022 | Ich | So einzustellen ob das gewählt Zahl grösser oder kleiner sein soll | 20min |
