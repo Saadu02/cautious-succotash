@@ -41,8 +41,8 @@ Ich als Spieler, möchte ich so gut wie möglich mit wenige versuche im Programm
 
 ✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
 
+![2022-08-25 screenshot spielgame](https://user-images.githubusercontent.com/111046257/186613583-35830601-3d8d-4eb1-b310-64f6eda97394.png)
 
-![image](https://user-images.githubusercontent.com/111046257/186612115-330697e6-1fa5-4226-8ef0-55df8546b739.png)
 
 
 
