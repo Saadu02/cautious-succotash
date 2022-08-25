@@ -19,9 +19,10 @@ Der Computer wählt eine Zufalsszahl zwischen 1 bis 100, der Benutzer muss eine 
 
 ### 1.2 User Stories                
 
-|  US-№ | Verbindlichkeit |   Typ        |      Beschreibung                       |
 
-|   1   |   muss          |  Funktional  |   Ich als spieler, möchte ich ein Hinweiss haben, damit ich weiss ob ich die erratene Zahl grösser oder kleiner sein soll|
+| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
+| ---- | --------------- | ---- | ---------------------------------- |
+| 1    |muss|Funktional| Ich als spieler, möchte ich ein Hinweiss haben, damit ich weiss ob ich die erratene Zahl grösser oder kleiner sein soll 
 |   2   |   kann          | Funktional   |   Ich als Spieler, möchte ich so mit wenige versuche im Programm eine Zahl einzugeben, damit ich den gleichen Ergebnisse habe wie der Computer.|
 | 3 | kann | Funktional | Ich als Spieler, möchte ich im den Spiel auch mit Dezimalzahlen eingeben kann, damit das Spiel einbisshen kniffiger wird  |
 | 4 | kann | Funktional | Ich als Spieler, möchte ich im Spiel, das man auch die Zahlwörter eingeben kann, damit man viel das Spiel einbisshen schwieriger wird. |
@@ -29,11 +30,12 @@ Der Computer wählt eine Zufalsszahl zwischen 1 bis 100, der Benutzer muss eine 
 | 6 | muss | Funktional | Ich als Spieler, möchte ich im Spiel ein Hinweiss haben, damit Ich weiss zur welche Gruppe das Wort gehört |
 
 
-
 ### 1.3 Testfälle
 
+
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
-| 1.1  |programm starten|Console.Write("den Satz") | Wählen Sie eine Zahl aus zwischen 1 bis 100 |
+| ---- | ------------ | ------- | ----------------- |
+| 1.1  | Programm starten|Console.Write("den Satz") |Wählen Sie eine Zahl aus zwischen 1 bis 100|
 | 2. |  2  |Code eingeben mit Zufallszahl |Zufallszahl|
 | 3. | 4 | programm laufen lassen | es muss funktionieren
 
