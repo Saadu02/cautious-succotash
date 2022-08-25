@@ -2,9 +2,15 @@
 
 Sathana Suganthasri
 
-| Datum | Version | Zusammenfassung                 |
-|25.08.2022| 0.0.1 | Im PAP habe ich die Anweisungen hingeschrieben|
-|
+
+
+| Datum | Version | Zusammenfassung                                              |
+| ----- | ------- | ------------------------------------------------------------ |
+|25.08.2022| 0.0.1   | Im PAP habe ich die Anweisungen hingeschrieben. |
+|       | ...     |                                                              |
+|       | 1.0.0   |                                                              |
+
+
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
@@ -13,9 +19,10 @@ Der Computer wählt eine Zufalsszahl zwischen 1 bis 100, der Benutzer muss eine 
 
 ### 1.2 User Stories                
 
-| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
-| 1  | muss | Funktional | Ich als spieler, möchte ich ein Hinweiss haben, damit ich weiss ob ich die erratene Zahl grösser oder kleiner sein soll|
-| 2 | kann | Funktional | Ich als Spieler, möchte ich so mit wenige versuche im Programm eine Zahl einzugeben, damit ich den gleichen Ergebnisse habe wie der Computer.|
+|  US-№ | Verbindlichkeit |   Typ        |      Beschreibung                       |
+
+|   1   |   muss          |  Funktional  |   Ich als spieler, möchte ich ein Hinweiss haben, damit ich weiss ob ich die erratene Zahl grösser oder kleiner sein soll|
+|   2   |   kann          | Funktional   |   Ich als Spieler, möchte ich so mit wenige versuche im Programm eine Zahl einzugeben, damit ich den gleichen Ergebnisse habe wie der Computer.|
 | 3 | kann | Funktional | Ich als Spieler, möchte ich im den Spiel auch mit Dezimalzahlen eingeben kann, damit das Spiel einbisshen kniffiger wird  |
 | 4 | kann | Funktional | Ich als Spieler, möchte ich im Spiel, das man auch die Zahlwörter eingeben kann, damit man viel das Spiel einbisshen schwieriger wird. |
 | 5 | kann | Funktional | Ich als Spieler, möchte ich im Spiel, das man auch Wörter eingeben kann, damit das man mehr überlegen müssen |
