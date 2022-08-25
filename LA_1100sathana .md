@@ -14,7 +14,7 @@ Sathana Suganthasri
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
-Der Computer wählt eine Zufall Zahl zwischen 1 bis 100, der Benutzer muss eine Zahl erraten und eingeben.
+Der Computer wählt eine zufällige Zahl zwischen 1 bis 100, der Benutzer muss eine Zahl erraten und eingeben.
 
 
 ### 1.2 User Stories                
@@ -22,12 +22,12 @@ Der Computer wählt eine Zufall Zahl zwischen 1 bis 100, der Benutzer muss eine 
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |muss|Funktional| Ich als Spieler, möchte ich ein Hinweis haben, damit ich weiss ob ich die erratene Zahl grösser ist. 
-| 2     | muss | Funktional | Ich als Spieler, möchte ich, das ein Hinweis zeigt, damit ich weiss, ob die erratene Zahl kleiner ist.
-| 3 | kann | Funktional | Ich als Spieler, möchte ich so weit wie möglich mit wenige versuche im Programm eine Zahl einzugeben, damit ich den gleichen Ergebnissen habe wie der Computer.|
-| 4 | kann | Funktional | Ich als Spieler, möchte ich im den Spiel auch mit Dezimalzahlen eingeben kann, damit das Spiel einbisschen schwieriger wird  |
+| 1 |muss|Funktional| Ich als Spieler, möchte ich ein Hinweis haben, damit ich weiss ob ich die erratene Zahl grösser ist. 
+| 2 | muss | Funktional | Ich als Spieler, möchte ich ein Hinweis haben, damit ich weiss, ob die erratene Zahl kleiner ist.
+| 3 | kann | Funktional | Ich als Spieler, möchte ich so weit wie möglich mit wenige versuche im Game eine Zahl einzugeben, damit ich den gleichen Ergebnisse habe wie der Computer.|
+| 4 | kann | Funktional | Ich als Spieler, möchte ich im Spiel, dass man auch mit Dezimalzahlen eingeben kann, damit das Spiel einbisschen schwieriger wird  |
 | 5 | kann | Funktional | Ich als Spieler, möchte ich im Spiel, das man auch die Zahlwörter eingeben kann, damit man den Spiel spannender macht. |
-| 6 | kann | Funktional | Ich als Spieler, möchte ich im Spiel, das man auch Wörter eingeben kann, damit das man mehr überlegen müssen |
+| 6 | kann | Funktional | Ich als Spieler, möchte ich im Spiel, das man auch Wörter eingeben kann, damit man mehr überlegen muss. |
 | 7 | muss | Funktional | Ich als Spieler, möchte ich im Spiel ein Hinweis haben, damit Ich weiss zur welcher Gruppe das Wort gehört |
 
 
