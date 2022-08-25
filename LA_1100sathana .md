@@ -36,9 +36,12 @@ Der Computer wählt eine zufällige Zahl zwischen 1 bis 100, der Benutzer muss e
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Programm starten|Console.Write("den Satz") |Wählen Sie eine Zahl aus zwischen 1 bis 100|
-| 2. |  2  |Code eingeben mit Zufallszahl |Zufallszahl|
-| 3. | 4 | Programm laufen lassen | es muss funktionieren
+| 1. | Code eingeben für den Satz|Console.Write("Wählen Sie eine Zahl aus zwischen 1 bis 100") |Wählen Sie eine Zahl aus zwischen 1 bis 100|
+| 2. | Programm laufen lassen  |Im Ergebnis eine Zahl eingeben |Wàhlen Sie eine Zahl aus zwischen 1 bis 100:___ |
+| 3. | Code für eine zufällige Zahl | int zufaelligezahl = new Random(). Next(1, 100); | Computer speichert eine zufällige Zahl |
+| 4. | Code eingeben, zufällige Zahl grösser oder kleiner | if zufaelligezahl ...... | Geratene Zahl muss grösser/kleiner sein. |
+| 5. | Code eingeben, wie viele versuche | Console.WriteLine("Du hast ___ versuche gebraucht") | Du hast ___ versuche gebraucht |
+| 6. | Code eingeben für den Schlussteil | Console.Write.Line("Bravo, du hast im Spiel mit ___ Versuche geschafft......")| Bravo!, du hast im Spiel mit ___ Versuche geschafft den richtige zufällige Zahl einzugeben.
 
 
 
@@ -60,8 +63,8 @@ Der Computer wählt eine zufällige Zahl zwischen 1 bis 100, der Benutzer muss e
 | 4.| 01.09.2022 | Ich | so einstellen, damit es beim Ergebnis zeigt, ob das hingeschreibene Zahl grösser oder kleiner sein soll. |30min |
 | 5.| 01.09.2022 | Ich | Wieder kontrollieren ob das funktioniert.  | 5min |
 | 6.| 01.09.2022 | Ich | Falls das nicht funktioert, die Probleme beheben. | 20 min |
-| 7.| 01.09.2022 | Ich | Danach muss ich eingeben, wie viele Versuche der Benutzer gemacht hat. Am schluss beim Ergebnis soll das anzeigen | 20min |
-| 8.| 01.09.2022 | Ich | Am Schluss gebe so ein, wenn der Benutzer den richtigen Zahl erraten hat "Bravo!, du hast im Spiel mit ...Versuchen geschafft den richtige Zahl einzugeben. | 20min |
+| 7.| 01.09.2022 | Ich | Danach muss ich eingeben, wie viele Versuche der Benutzer gebraucht hat. Am schluss beim Ergebnis soll das anzeigen | 20min |
+| 8.| 01.09.2022 | Ich | Am Schluss gebe so ein, wenn der Benutzer den richtigen Zahl erraten hat "Bravo!, du hast im Spiel mit ...Versuche geschafft den richtige zufällige Zahl einzugeben. | 20min |
 
 Total: 
 
