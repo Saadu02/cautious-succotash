@@ -47,9 +47,7 @@ Der Computer wählt eine zufällige Zahl zwischen 1 bis 100, der Benutzer muss e
 
 ### 1.4 Diagramme
 
-![2022-08-25 screenshot spielgame](https://user-images.githubusercontent.com/111046257/186613583-35830601-3d8d-4eb1-b310-64f6eda97394.png)
-
-
+![Zahlenspiel](https://user-images.githubusercontent.com/111046257/186751410-699f9f2b-d937-4d2a-97b6-4d9736ed40ac.png)
 
 
 ## 2 Planen      
