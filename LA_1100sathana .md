@@ -14,7 +14,7 @@ Sathana Suganthasri
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
-Der Computer wählt eine Zufalsszahl zwischen 1 bis 100, der Benutzer muss eine Zahl erraten und eingeben.
+Der Computer wählt eine Zufall Zahl zwischen 1 bis 100, der Benutzer muss eine Zahl erraten und eingeben.
 
 
 ### 1.2 User Stories                
@@ -22,12 +22,13 @@ Der Computer wählt eine Zufalsszahl zwischen 1 bis 100, der Benutzer muss eine 
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |muss|Funktional| Ich als spieler, möchte ich ein Hinweiss haben, damit ich weiss ob ich die erratene Zahl grösser oder kleiner sein soll 
-|   2   |   kann          | Funktional   |   Ich als Spieler, möchte ich so mit wenige versuche im Programm eine Zahl einzugeben, damit ich den gleichen Ergebnisse habe wie der Computer.|
-| 3 | kann | Funktional | Ich als Spieler, möchte ich im den Spiel auch mit Dezimalzahlen eingeben kann, damit das Spiel einbisshen kniffiger wird  |
-| 4 | kann | Funktional | Ich als Spieler, möchte ich im Spiel, das man auch die Zahlwörter eingeben kann, damit man viel das Spiel einbisshen schwieriger wird. |
-| 5 | kann | Funktional | Ich als Spieler, möchte ich im Spiel, das man auch Wörter eingeben kann, damit das man mehr überlegen müssen |
-| 6 | muss | Funktional | Ich als Spieler, möchte ich im Spiel ein Hinweiss haben, damit Ich weiss zur welche Gruppe das Wort gehört |
+| 1    |muss|Funktional| Ich als Spieler, möchte ich ein Hinweis haben, damit ich weiss ob ich die erratene Zahl grösser ist. 
+| 2     | muss | Funktional | Ich als Spieler, möchte ich, das ein Hinweis zeigt, damit ich weiss, ob die erratene Zahl kleiner ist.
+| 3 | kann | Funktional | Ich als Spieler, möchte ich so weit wie möglich mit wenige versuche im Programm eine Zahl einzugeben, damit ich den gleichen Ergebnissen habe wie der Computer.|
+| 4 | kann | Funktional | Ich als Spieler, möchte ich im den Spiel auch mit Dezimalzahlen eingeben kann, damit das Spiel einbisschen schwieriger wird  |
+| 5 | kann | Funktional | Ich als Spieler, möchte ich im Spiel, das man auch die Zahlwörter eingeben kann, damit man den Spiel spannender macht. |
+| 6 | kann | Funktional | Ich als Spieler, möchte ich im Spiel, das man auch Wörter eingeben kann, damit das man mehr überlegen müssen |
+| 7 | muss | Funktional | Ich als Spieler, möchte ich im Spiel ein Hinweis haben, damit Ich weiss zur welcher Gruppe das Wort gehört |
 
 
 ### 1.3 Testfälle
@@ -37,7 +38,7 @@ Der Computer wählt eine Zufalsszahl zwischen 1 bis 100, der Benutzer muss eine 
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Programm starten|Console.Write("den Satz") |Wählen Sie eine Zahl aus zwischen 1 bis 100|
 | 2. |  2  |Code eingeben mit Zufallszahl |Zufallszahl|
-| 3. | 4 | programm laufen lassen | es muss funktionieren
+| 3. | 4 | Programm laufen lassen | es muss funktionieren
 
 
 
@@ -48,16 +49,19 @@ Der Computer wählt eine Zufalsszahl zwischen 1 bis 100, der Benutzer muss eine 
 
 
 
-## 2 Planen       bis 12
+## 2 Planen      
 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1. | 01.09.2022 | Ich| Im visual Studio stelle ich ein so das der Satz "Wähle eine Zahl aus zwischen 1 bis 100:" rauskommt.| 4min |
-| 2. | 01.09.2022 |Ich | Im visual Studio eo ein zugeben das der Computer eine Zufallszahl wählt |15min |
-| 3.| 01.09.2022 | Ich | So einzustellen ob das gewählt Zahl grösser oder kleiner sein soll | 20min |
-| 4.| 01.09.2022 | Ich | Das Programm laufen lassen, um zu schauen ob das bis jetzt fehlerfrei funktioniertm | 3min |
-| 5.| 01.09.2022 | Ich | Nach einem guten Ergebniss, möchte ich so einstellen, dass man mit dezimalzahlen eingeben kann | 30min |
+| 1.| 01.09.2022 | Ich | Im Visual Studio stelle ich ein so das der Satz; "Wähle eine Zahl aus zwischen 1 bis 100:" rauskommt.| 4min |
+| 2.| 01.09.2022 | Ich | Kontrollieren ob das Ergebnis so zeigt "Wähle eine Zahl aus zwischen 1 bis 100:" und eine Zahl hinschreiben kann.| 3min|
+| 3.| 01.09.2022 | Ich | So einstellen, dass das Computer eine Zufällige Zahl wählt. | 15min|
+| 4.| 01.09.2022 | Ich | so einstellen, damit es beim Ergebnis zeigt, ob das hingeschreibene Zahl grösser oder kleiner sein soll. |30min |
+| 5.| 01.09.2022 | Ich | Wieder kontrollieren ob das funktioniert.  | 5min |
+| 6.| 01.09.2022 | Ich | Falls das nicht funktioert, die Probleme beheben. | 20 min |
+| 7.| 01.09.2022 | Ich | Danach muss ich eingeben, wie viele Versuche der Benutzer gemacht hat. Am schluss beim Ergebnis soll das anzeigen | 20min |
+| 8.| 01.09.2022 | Ich | Am Schluss gebe so ein, wenn der Benutzer den richtigen Zahl erraten hat "Bravo!, du hast im Spiel mit ...Versuchen geschafft den richtige Zahl einzugeben. | 20min |
 
 Total: 
 
