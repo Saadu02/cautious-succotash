@@ -57,7 +57,7 @@ Der Computer wählt eine zufällige Zahl zwischen 1 bis 100, der Benutzer muss e
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.| 01.09.2022 | Ich | Im Visual Studio stelle ich ein, so dass der Satz; "Wähle eine Zahl aus zwischen 1 bis 100:" rauskommt.| 4min |
 | 2.| 01.09.2022 | Ich | Kontrollieren, ob das Ergebnis so zeigt "Wähle eine Zahl aus zwischen 1 bis 100:" und eine Zahl hinschreiben kann.| 3min|
-| 3.| 01.09.2022 | Ich | So einstellen, dass der Computer eine Zufällige Zahl wählt. | 15min|
+| 3.| 01.09.2022 | Ich | So einstellen, dass der Computer eine Zufällige Zahl wählt. und Programm laufen lassen| 15min|
 | 4.| 01.09.2022 | Ich | so einstellen, damit es beim Ergebnis zeigt, ob das hingeschriebene Zahl grösser oder kleiner sein soll. |30min |
 | 5.| 01.09.2022 | Ich | Wieder kontrollieren, ob das funktioniert.  | 5min |
 | 6.| 01.09.2022 | Ich | Falls, das nicht funktioniert, die Probleme beheben. | 20 min |
@@ -78,8 +78,9 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-|  |       |           |               |                   |
+| 1. | 01.09.2022 | Ich | 4 min | 2 min |
+| 2. | 01.09.2022 | Ich | 3 min | 1.5 min |
+| 3. | 01.09.2022 | Ich | 15 min | 9 min |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
