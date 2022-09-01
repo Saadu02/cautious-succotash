@@ -81,6 +81,12 @@ Total:
 | 1. | 01.09.2022 | Ich | 4 min | 2 min |
 | 2. | 01.09.2022 | Ich | 3 min | 1.5 min |
 | 3. | 01.09.2022 | Ich | 15 min | 9 min |
+| 4. | 01.09.2022 | Ich | 30 min | 15 min |
+| 5. | 01.09.2022 | Ich | 5 min | 2 min |
+| 6. | 01.09.2022 | Ich | 20 min | - |
+| 7. | 01.09.2022 | Ich |
+| 8. | 01.09.2022 | Ich |
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
