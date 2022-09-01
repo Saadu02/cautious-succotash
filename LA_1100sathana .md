@@ -62,7 +62,8 @@ Der Computer wählt eine zufällige Zahl zwischen 1 bis 100, der Benutzer muss e
 | 5.| 01.09.2022 | Ich | Wieder kontrollieren, ob das funktioniert.  | 5min |
 | 6.| 01.09.2022 | Ich | Falls, das nicht funktioniert, die Probleme beheben. | 20 min |
 | 7.| 01.09.2022 | Ich | Danach muss ich eingeben, wie viele Versuche der Benutzer gebraucht hat. Am Schluss beim Ergebnis soll das anzeigen | 20min |
-| 8.| 01.09.2022 | Ich | Am Schluss gebe so ein, wenn der Benutzer die richtigen Zahl erraten hat "Bravo! du hast im Spiel mit ...Versuche geschafft die richtige zufällige Zahl  einzugeben. | 20min |
+| 8.| 01.09.2022 | Ich | Am Schluss gebe so ein, wenn der Benutzer die richtigen Zahl erraten hat "Bravo! du hast im Spiel mit ...Versuche geschafft die richtige zufällige Zahl herauszufinden. | 20min |
+| 9. | 01.09.2002 | Ich | So einstellen, das man der Benutzer fragt, ob er wieder spielen möchte. | 20 min |
 
 Total: 
 
@@ -78,14 +79,15 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1. | 01.09.2022 | Ich | 4 min | 2 min |
+| 1. | 01.09.2022 | Ich | 4 min | 3 min |
 | 2. | 01.09.2022 | Ich | 3 min | 1.5 min |
-| 3. | 01.09.2022 | Ich | 15 min | 9 min |
-| 4. | 01.09.2022 | Ich | 30 min | 15 min |
+| 3. | 01.09.2022 | Ich | 15 min | 10 min |
+| 4. | 01.09.2022 | Ich | 30 min | 20 min |
 | 5. | 01.09.2022 | Ich | 5 min | 2 min |
 | 6. | 01.09.2022 | Ich | 20 min | - |
-| 7. | 01.09.2022 | Ich |
-| 8. | 01.09.2022 | Ich |
+| 7. | 01.09.2022 | Ich | 20 min | 30 min |
+| 8. | 01.09.2022 | Ich | 20 min | 8 min |
+| 9. | 01.09.2022 | Ich | 20 min | 30 min |
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
