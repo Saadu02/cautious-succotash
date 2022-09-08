@@ -64,7 +64,7 @@ Der Computer wählt eine zufällige Zahl zwischen 1 bis 100, der Benutzer muss e
 | 6.| 01.09.2022 | Ich | Falls, das nicht funktioniert, die Probleme beheben. | 20 min |
 | 7.| 01.09.2022 | Ich | Danach muss ich eingeben, wie viele Versuche der Benutzer gebraucht hat. Am Schluss beim Ergebnis soll das anzeigen | 20min |
 | 8.| 01.09.2022 | Ich | Am Schluss gebe so ein, wenn der Benutzer die richtigen Zahl erraten hat "Bravo! du hast im Spiel mit ...Versuche geschafft die richtige zufällige Zahl herauszufinden. | 20min |
-| 9.| 01.09.2002 | Ich | So einstellen, das man der Benutzer fragt, ob er wieder spielen möchte. | 20 min |
+| 9.| 08.09.2002 | Ich | So einstellen, das man der Benutzer fragt, ob er wieder spielen möchte. | 20 min |
 | 10.| 08.09.2022 | Ich | Wenn der Spieler anstatt einer Zahl ein Buchstabe eingibt, soll das Programm sagen, dass das eine Ungültige Eingabe ist. | 20min |
 
 Total: 
@@ -89,8 +89,8 @@ Total:
 | 6. | 01.09.2022 | Ich | 20 min | - |
 | 7. | 01.09.2022 | Ich | 20 min | 30 min |
 | 8. | 01.09.2022 | Ich | 20 min | 8 min |
-| 9. | 01.09.2022 | Ich | 20 min | 30 min |
-| 10.| 08.09.2022 | Ich | 20 min | 25 min |
+| 9. | 08.09.2022 | Ich | 20 min | 45 min |
+| 10.| 08.09.2022 | Ich | 20 min | 30 min |
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
