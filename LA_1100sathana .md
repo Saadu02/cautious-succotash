@@ -58,15 +58,15 @@ Der Computer wählt eine zufällige Zahl zwischen 1 bis 100, der Benutzer muss e
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.| 01.09.2022 | Ich | Im Visual Studio stelle ich ein, so dass der Satz; "Wähle eine Zahl aus zwischen 1 bis 100:" rauskommt.| 4min |
 | 2.| 01.09.2022 | Ich | Kontrollieren, ob das Ergebnis so zeigt "Wähle eine Zahl aus zwischen 1 bis 100:" und eine Zahl hinschreiben kann.| 3min|
-| 3.| 01.09.2022 | Ich | So einstellen, dass der Computer eine Zufällige Zahl wählt. und Programm laufen lassen| 15min|
+| 3.| 01.09.2022 | Ich | So einstellen, dass der Computer eine Zufällige Zahl wählt. und Programm laufen lassen| 30min|
 | 4.| 01.09.2022 | Ich | so einstellen, damit es beim Ergebnis zeigt, ob das hingeschriebene Zahl grösser oder kleiner sein soll. |30min |
 | 5.| 01.09.2022 | Ich | Wieder kontrollieren, ob das funktioniert.  | 5min |
 | 6.| 01.09.2022 | Ich | Falls, das nicht funktioniert, die Probleme beheben. | 20 min |
-| 7.| 01.09.2022 | Ich | Danach muss ich eingeben, wie viele Versuche der Benutzer gebraucht hat. Am Schluss beim Ergebnis soll das anzeigen | 20min |
+| 7.| 01.09.2022 | Ich | Danach muss ich eingeben, wie viele Versuche der Benutzer gebraucht hat. Am Schluss beim Ergebnis soll das anzeigen | 30min |
 | 8.| 01.09.2022 | Ich | Am Schluss gebe so ein, wenn der Benutzer die richtigen Zahl erraten hat "Bravo! du hast im Spiel mit ...Versuche geschafft die richtige zufällige Zahl herauszufinden. | 20min |
 | 9.| 08.09.2002 | Ich | So einstellen, das man der Benutzer fragt, ob er wieder spielen möchte. | 20 min |
-| 10.| 08.09.2022 | Ich | Wenn der Spieler anstatt einer Zahl ein Buchstabe eingibt, soll das Programm sagen, dass das eine Ungültige Eingabe ist. | 20min |
-
+| 10.| 08.09.2022 | Ich | Wenn der Spieler anstatt einer Zahl ein Buchstabe eingibt, soll das Programm sagen, dass das eine Ungültige Eingabe ist. | 30min |
+| 11.| 15.09.2022 | Ich | Nach ungültige Eingabe, muss das Programm fortsetzen | 25 min|
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
@@ -82,15 +82,15 @@ Total:
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1. | 01.09.2022 | Ich | 4 min | 3 min |
-| 2. | 01.09.2022 | Ich | 3 min | 1.5 min |
-| 3. | 01.09.2022 | Ich | 15 min | 10 min |
-| 4. | 01.09.2022 | Ich | 30 min | 20 min |
+| 2. | 01.09.2022 | Ich | 3 min | 2 min |
+| 3. | 01.09.2022 | Ich | 30 min | 15 min |
+| 4. | 01.09.2022 | Ich | 30 min | 25 min |
 | 5. | 01.09.2022 | Ich | 5 min | 2 min |
 | 6. | 01.09.2022 | Ich | 20 min | - |
-| 7. | 01.09.2022 | Ich | 20 min | 30 min |
+| 7. | 01.09.2022 | Ich | 30 min | 25 min |
 | 8. | 01.09.2022 | Ich | 20 min | 8 min |
-| 9. | 08.09.2022 | Ich | 20 min | 45 min |
-| 10.| 08.09.2022 | Ich | 20 min | 30 min |
+| 9. | 08.09.2022 | Ich | 20 min | 50 min |
+| 10.| 08.09.2022 | Ich | 30 min | 40 min |
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
