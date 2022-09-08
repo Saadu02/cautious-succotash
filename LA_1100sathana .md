@@ -22,14 +22,14 @@ Der Computer wählt eine zufällige Zahl zwischen 1 bis 100, der Benutzer muss e
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1 |muss|Funktional| Ich als Spieler, möchte ich ein Hinweis haben, damit ich weiss, ob ich die erratene Zahl grösser ist. 
-| 2 | muss | Funktional | Ich als Spieler, möchte ich ein Hinweis haben, damit ich weiss, ob die erratene Zahl kleiner ist.
-| 3 | kann | Funktional | Ich als Spieler, möchte ich so weit wie möglich mit wenige versuche im Game eine Zahl einzugeben, damit ich den gleichen Ergebnissen habe wie der Computer.|
-| 4 | kann | Funktional | Ich als Spieler, möchte ich im Spiel, dass man auch mit Dezimalzahlen eingeben kann, damit das Spiel ein bisschen schwieriger wird  |
-| 5 | kann | Funktional | Ich als Spieler, möchte ich im Spiel, das man auch die Zahlwörter eingeben kann, damit man das Spiel spannender macht. |
-| 6 | kann | Funktional | Ich als Spieler, möchte ich im Spiel, das man auch Wörter eingeben kann, damit man mehr überlegen muss. |
-| 7 | muss | Funktional | Ich als Spieler, möchte ich im Spiel ein Hinweis haben, damit Ich weiss zu welcher Gruppe das Wort gehört |
-
+| 1. |muss|Funktional| Ich als Spieler, möchte ich ein Hinweis haben, damit ich weiss, ob ich die erratene Zahl grösser ist. 
+| 2. | muss | Funktional | Ich als Spieler, möchte ich ein Hinweis haben, damit ich weiss, ob die erratene Zahl kleiner ist.
+| 3. | kann | Funktional | Ich als Spieler, möchte ich so weit wie möglich mit wenige versuche im Game eine Zahl einzugeben, damit ich den gleichen Ergebnissen habe wie der Computer.|
+| 4. | kann | Funktional | Ich als Spieler, möchte ich im Spiel, dass man auch mit Dezimalzahlen eingeben kann, damit das Spiel ein bisschen schwieriger wird  |
+| 5. | kann | Funktional | Ich als Spieler, möchte ich im Spiel, das man auch die Zahlwörter eingeben kann, damit man das Spiel spannender macht. |
+| 6. | kann | Funktional | Ich als Spieler, möchte ich im Spiel, das man auch Wörter eingeben kann, damit man mehr überlegen muss. |
+| 7. | muss | Funktional | Ich als Spieler, möchte ich im Spiel ein Hinweis haben, damit Ich weiss zu welcher Gruppe das Wort gehört |
+| 8. | muss | Funktional | Ich als Spieler, möchte ich im Spiel, wenn ich irgendetwas schriebe, das es zeigt das es Ungültig ist, damit das Programm nicht abstürtzt.| 
 
 ### 1.3 Testfälle
 
@@ -42,6 +42,7 @@ Der Computer wählt eine zufällige Zahl zwischen 1 bis 100, der Benutzer muss e
 | 4. | Code eingeben, zufällige Zahl grösser oder kleiner | if zufaelligezahl ...... | Geratene Zahl muss grösser/kleiner sein. |
 | 5. | Code eingeben, wie viele versuche | Console.WriteLine("Du hast ___ versuche gebraucht") | Du hast ___ versuche gebraucht |
 | 6. | Code eingeben für den Schlussteil | Console.Write.Line("Bravo, du hast im Spiel mit ___ Versuche geschafft den richtige zufällige Zahl einzugeben")| Bravo! du hast im Spiel mit ___ Versuche geschafft die richtige zufällige Zahl einzugeben.
+| 7. | Code eingeben für ungültige Eingabe (try/catch) | try (code) -> chatch  Console.WriteLine("Ungültige Eingabe. Wähle Sie eine Zahl aus zwischen 1 bis 100"); Environment.Exit(0); | Ungültige Eingabe |
 
 
 
@@ -89,7 +90,7 @@ Total:
 | 7. | 01.09.2022 | Ich | 20 min | 30 min |
 | 8. | 01.09.2022 | Ich | 20 min | 8 min |
 | 9. | 01.09.2022 | Ich | 20 min | 30 min |
-| 10.| 08.09.2022 | Ich | 20 min |
+| 10.| 08.09.2022 | Ich | 20 min | 25 min |
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
