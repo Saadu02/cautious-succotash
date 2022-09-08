@@ -7,7 +7,7 @@ Sathana Suganthasri
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |25.08.2022| 0.0.1   | Im PAP habe ich die Anweisungen hingeschrieben. |
-|       | ...     |                                                              |
+|01.09.2022| 1.0.0| Neues Projekt im Visual Studio erstellt. |
 |       | 1.0.0   |                                                              |
 
 
