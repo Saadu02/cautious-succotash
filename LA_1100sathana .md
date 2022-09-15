@@ -25,11 +25,12 @@ Der Computer wählt eine zufällige Zahl zwischen 1 bis 100, der Benutzer muss e
 | 1. |muss|Funktional| Ich als Spieler, möchte ich ein Hinweis haben, damit ich weiss, ob ich die erratene Zahl grösser ist. 
 | 2. | muss | Funktional | Ich als Spieler, möchte ich ein Hinweis haben, damit ich weiss, ob die erratene Zahl kleiner ist.
 | 3. | kann | Funktional | Ich als Spieler, möchte ich so weit wie möglich mit wenige versuche im Game eine Zahl einzugeben, damit ich den gleichen Ergebnissen habe wie der Computer.|
-| 4. | kann | Funktional | Ich als Spieler, möchte ich im Spiel, dass man auch mit Dezimalzahlen eingeben kann, damit das Spiel ein bisschen schwieriger wird  |
+| 4. | kann | Funktional | Ich als Spieler, möchte ich im Spiel, dass man auch mit Dezimalzahlen eingeben kann, damit das Spiel ein bisschen schwieriger wird.  |
 | 5. | kann | Funktional | Ich als Spieler, möchte ich im Spiel, das man auch die Zahlwörter eingeben kann, damit man das Spiel spannender macht. |
 | 6. | kann | Funktional | Ich als Spieler, möchte ich im Spiel, das man auch Wörter eingeben kann, damit man mehr überlegen muss. |
-| 7. | muss | Funktional | Ich als Spieler, möchte ich im Spiel ein Hinweis haben, damit Ich weiss zu welcher Gruppe das Wort gehört |
+| 7. | muss | Funktional | Ich als Spieler, möchte ich im Spiel ein Hinweis haben, damit Ich weiss zu welcher Gruppe das Wort gehört. |
 | 8. | muss | Funktional | Ich als Spieler, möchte ich im Spiel, wenn ich irgendetwas schriebe, das es zeigt das es Ungültig ist, damit das Programm nicht abstürtzt.| 
+| 9. | kann | Qualität | Ich als Spieler, möchte ich im Spiel, dass es farbig ist, damit es viel schöner aussieht. |
 
 ### 1.3 Testfälle
 
@@ -44,7 +45,7 @@ Der Computer wählt eine zufällige Zahl zwischen 1 bis 100, der Benutzer muss e
 | 6. | Code eingeben für den Schlussteil | Console.Write.Line("Bravo, du hast im Spiel mit ___ Versuche geschafft den richtige zufällige Zahl einzugeben")| Bravo! du hast im Spiel mit ___ Versuche geschafft die richtige zufällige Zahl einzugeben.
 | 7. | Code eingeben für ungültige Eingabe (try/catch) | try (code) -> chatch  Console.WriteLine("Ungültige Eingabe. Wähle Sie eine Zahl aus zwischen 1 bis 100"); Environment.Exit(0); | Ungültige Eingabe |
 
-
+Debugging
 
 ### 1.4 Diagramme
 
@@ -67,6 +68,10 @@ Der Computer wählt eine zufällige Zahl zwischen 1 bis 100, der Benutzer muss e
 | 9.| 08.09.2002 | Ich | So einstellen, das man der Benutzer fragt, ob er wieder spielen möchte. | 20 min |
 | 10.| 08.09.2022 | Ich | Wenn der Spieler anstatt einer Zahl ein Buchstabe eingibt, soll das Programm sagen, dass das eine Ungültige Eingabe ist. | 30min |
 | 11.| 15.09.2022 | Ich | Nach ungültige Eingabe, muss das Programm fortsetzen | 25 min|
+| 12.| 15.09.2022 | Ich | Probleme beheben, die von letzten Mal. | 30 min |
+| 13.| 15.09.2022 | Ich | Wenn man im Spiel den korrekten Zahl herausgefunden hat, den richtigen Zahl im grün markieren. | 30 min|
+
+
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
@@ -76,7 +81,9 @@ Total:
 ## 3 Entscheiden
 
 ✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
-
+Try catch
+Debugging
+Wiederhol Modus
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
@@ -91,7 +98,9 @@ Total:
 | 8. | 01.09.2022 | Ich | 20 min | 8 min |
 | 9. | 08.09.2022 | Ich | 20 min | 50 min |
 | 10.| 08.09.2022 | Ich | 30 min | 40 min |
-
+| 11.| 15.09.2022 | Ich | 25 min |        |
+| 12.| 15.09.2022 | Ich | 30 min | 30 min |
+| 13.| 15.09.2022 | Ich | 30 min |        |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
