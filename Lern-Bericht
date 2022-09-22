@@ -24,7 +24,7 @@ Bild:
 
 * Ein gut dokumentierter Code-Fetzen
 
-```Csharp
+'''Csharp
 
 int EingabeZahl;
 try
