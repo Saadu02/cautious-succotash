@@ -20,17 +20,16 @@ Der Computer wählt eine zufällige Zahl zwischen 1 bis 100, der Benutzer muss e
 ### 1.2 User Stories                
 
 
-| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
+| US-№ | Verbindlichkeit | Typ | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1. | muss|Funktional| Ich als Spieler, möchte ich ein Hinweis haben, damit ich weiss, ob ich die erratene Zahl grösser ist. 
+| 1. | muss| Funktional| Ich als Spieler, möchte ich ein Hinweis haben, damit ich weiss, ob ich die erratene Zahl grösser ist. 
 | 2. | muss | Funktional | Ich als Spieler, möchte ich ein Hinweis haben, damit ich weiss, ob die erratene Zahl kleiner ist.
 | 3. | kann | Funktional | Ich als Spieler, möchte ich so weit wie möglich mit wenige versuche im Game eine Zahl einzugeben, damit ich den gleichen Ergebnissen habe wie der Computer.|
 | 4. | kann | Funktional | Ich als Spieler, möchte ich im Spiel, dass man auch mit Dezimalzahlen eingeben kann, damit das Spiel ein bisschen schwieriger wird.  |
 | 5. | kann | Funktional | Ich als Spieler, möchte ich im Spiel, das man auch die Zahlwörter eingeben kann, damit man das Spiel spannender macht. |
-| 6. | kann | Funktional | Ich als Spieler, möchte ich im Spiel, das man auch Wörter eingeben kann, damit man mehr überlegen muss. |
-| 7. | muss | Funktional | Ich als Spieler, möchte ich im Spiel ein Hinweis haben, damit Ich weiss zu welcher Gruppe das Wort gehört. |
-| 8. | muss | Funktional | Ich als Spieler, möchte ich im Spiel, wenn ich irgendetwas schriebe, das es zeigt das es Ungültig ist, damit das Programm nicht abstürtzt.| 
-| 9. | kann | Qualität | Ich als Spieler, möchte ich im Spiel, dass es farbig ist, damit es viel schöner aussieht. |
+| 6. | muss | Qualität | Ich als Spieler, möchte ich im Spiel, wenn ich irgendetwas schreibe, muss ein Message zeigen, dass es Ungültig ist, damit das Programm nicht gleich abstürtzt.| 
+| 7. | kann | Qualität | Ich als Spieler, möchte ich im Spiel, dass es farbig ist, damit es viel schöner aussieht. |
+| 8.| kann | Funktional | Ich als Spieler, möchte ich im Spiel, das es Anzahl Versuche zeigt, damit ich mit meine Lernpartnerin vergleichen kann.|
 
 ### 1.3 Testfälle
 
@@ -45,7 +44,7 @@ Der Computer wählt eine zufällige Zahl zwischen 1 bis 100, der Benutzer muss e
 | 6. | Code eingeben für den Schlussteil | Console.Write.Line("Bravo, du hast im Spiel mit ___ Versuche geschafft den richtige zufällige Zahl einzugeben")| Bravo! du hast im Spiel mit ___ Versuche geschafft die richtige zufällige Zahl einzugeben.
 | 7. | Code eingeben für ungültige Eingabe (try/catch) | try (code) -> chatch  Console.WriteLine("Ungültige Eingabe. Wähle Sie eine Zahl aus zwischen 1 bis 100"); Environment.Exit(0); | Ungültige Eingabe |
 | 8. | programm laufen lassen | Console.WriteLine("Bravo! Du hast im Spiel mit " + versuche + " Versuche geschafft die richtige zufällige Zahl herauszufinden.");| Bravo! Du hast im Spiel mit " + versuche + " Versuche geschafft die richtige zufällige Zahl herauszufinden.|
-| 9. | Code für wiederholung | Console.Write("Möchten Sie noch Mals spielen? [y|n]: "); char Antwort = Convert.ToChar(Console.ReadLine());/ if and else | Möchten Sie noch Mals spielen? [y|n]:|
+| 9. | Code für Wiederholung | Console.Write("Möchten Sie noch Mals spielen? [y|n]: "); char Antwort = Convert.ToChar(Console.ReadLine());/ if and else | Möchten Sie noch Mals spielen? [y|n]:|
 | 10. | Code für ungültige Eingabe | (try Catch) |  Console.WriteLine("Ungültige Eingabe. Bitte starten Sie das Programm neu! "); | Ungültige Eingabe. Bitte starten Sie das Programm neu!|
 | 11. | Code für ungültige Eingabe | Environment.Exit(0); | Progamm schliesst |
 | 12. | Die Datentypen ändern |  i = zuefaelligeZahl.Next(1, 100); | Computer speichert neu zufällige Zahl |
@@ -73,13 +72,13 @@ Debugging
 | 5.| 01.09.2022 | Ich | Wieder kontrollieren, ob das funktioniert.  | 5min |
 | 6.| 01.09.2022 | Ich | Falls, das nicht funktioniert, die Probleme beheben. | 20 min |
 | 7.| 01.09.2022 | Ich | Danach muss ich eingeben, wie viele Versuche der Benutzer gebraucht hat. Am Schluss beim Ergebnis soll das anzeigen | 30min |
-| 8.| 01.09.2022 | Ich | Am Schluss gebe so ein, wenn der Benutzer die richtigen Zahl erraten hat "Bravo! du hast im Spiel mit ...Versuche geschafft die richtige zufällige Zahl herauszufinden. | 20min |
-| 9.| 08.09.2002 | Ich | So einstellen, das man der Benutzer fragt, ob er wieder spielen möchte. | 20 min |
+| 8.| 01.09.2022 | Ich | Am Schluss gebe so ein, wenn der Benutzer die richtige Zahl erraten hat "Bravo! du hast im Spiel mit ...Versuche geschafft die richtige zufällige Zahl herauszufinden. | 20min |
+| 9.| 08.09.2002 | Ich | So einstellen, dass man der Benutzer fragt, ob er wieder spielen möchte. | 20 min |
 | 10.| 08.09.2022 | Ich | Wenn der Spieler anstatt einer Zahl ein Buchstabe eingibt, soll das Programm sagen, dass das eine Ungültige Eingabe ist. | 30min |
 | 11.| 15.09.2022 | Ich | Nach ungültige Eingabe, muss man das Programm neustarten | 25 min|
 | 12.| 15.09.2022 | Ich | Probleme beheben, die von letzten Mal. | 40 min |
-| 13.| 15.09.2022 | Ich | Wenn man im Spiel den korrekten Zahl herausgefunden hat, den richtigen Zahl im grün markieren. | 30 min |
-| 14.| 15.09.2022 | Ich | Wenn man im Spiel ein falschen Zahl eingibt, wird es mit magenda Farbe markiert. | 20 min |
+| 13.| 15.09.2022 | Ich | Wenn man im Spiel dee korrekte Zahl herausgefunden hat, die richtige Zahl im grün markieren. | 30 min |
+| 14.| 15.09.2022 | Ich | Wenn man im Spiel eine falsche Zahl eingibt, wird es mit Magenta Farbe markiert. | 20 min |
 | 15.| 15.09.2022 | Ich | Wenn man im Spiel soll den Satz "Danke für mitspielen..." mit gelb markieren. | 20 min |
 | 16.| 15.09.2022 | Ich | Das Probleme mit (wie viele versuche der Benutzer benötigt hat) lösen | 30 min |
 
