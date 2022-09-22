@@ -8,7 +8,7 @@ Im Lernatelier habe ich ein Projekt erstellt mit den Ausnahmenbehandlung Try Cat
 ## Was habe ich gelernt?
 
 ✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
-Ich habe gelernt, das man im Projekt den Kontrollstrukturen Try Catch anwenden soll, damit das Programm nicht gleich abstürzt. 
+Ich habe gelernt, das man im Projekt den Try Catch Ausnahmenbehandlung anwenden soll, damit das Programm nicht gleich abstürzt, wenn der Benutzer eine Flasche Eingabe gibt.  . 
 
 ## Beschreibung
 
@@ -28,7 +28,8 @@ Console.WriteLine("Geben Sie eine Zahl ein: ")
 }
 catch
 {
-Environment.Exit
+console.WriteLine("Ungültige Eingabe. Bitte starten Sie das Programm neu!"):
+Environment.Exit(0);
 }
 
 '''
