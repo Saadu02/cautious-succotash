@@ -17,7 +17,7 @@ Text: Wenn Benutzer etwas Ungültiges  eingibt wie zum Beispiel statt einer Zahl
 Try catch ist eine Ausnahmenbehandlung. 
 Wie soll man das verwenden?  
 Zwischen Try und catch schreiben wir den Code, der im Programm ausführen soll. Nach dem catch soll man diesen Code Environment.Exit(0); und console.WriteLine("Ungültige Eingabe. Bitte starten Sie das Programm neu! ") schreiben. 
-
+ 
 Code:
 
 ```csharp
