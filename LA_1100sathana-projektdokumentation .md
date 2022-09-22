@@ -28,11 +28,11 @@ Der Computer wählt eine zufällige Zahl zwischen 1 bis 100, der Benutzer muss e
 | 4. | muss | Funktional | Ich als Spieler, möchte ich erneut eine Zahl eingeben, damit ich nicht verlieren möchte.
 
 | 5. | kann | Funktional | Ich als Spieler, möchte ich im Spiel, das man auch die Zahlwörter eingeben kann, damit man das Spiel spannender macht. |
-| 6. | muss | Qualität | Ich als Spieler, möchte ich im Spiel, wenn ich irgendetwas schreibe, muss ein Message zeigen, dass es Ungültig ist, damit das Programm nicht gleich abstürtzt.| 
+| 6. | muss | Qualität | Ich als Spieler, möchte ich im Spiel, wenn ich irgendetwas schreibe, muss ein Message zeigen, dass es Ungültig ist, damit das Programm nicht gleich abstürzt.| 
 
 | 7.| kann | Funktional | Ich als Spieler, möchte ich im Spiel, das es Anzahl Versuche zeigt, damit ich mit meine Lernpartnerin vergleichen kann.|
-| 8.| muss | Funktional | Ich als Spieler, möchte ich im Spiel noch einmal spielen, damit ich eine chance habe mit wenige Versuche zuspielen|
-| 9. | muss | Funktional | Ich als Spieler, möchte ich im Spiel, wenn ich nicht mehr Spielen möchte, dass der Programm zeigt "Danke fürs Mitspielen", damit das Spiel ohne zu bedanken aufhört/schliesst. |
+| 8.| muss | Funktional | Ich als Spieler, möchte ich im Spiel noch einmal spielen, damit ich eine Chance habe mit wenige Versuche zuspielen|
+| 9. | muss | Funktional | Ich als Spieler, möchte ich im Spiel, wenn ich nicht mehr spielen möchte, dass der Programm zeigt "Danke fürs Mitspielen", damit das Spiel ohne zu bedanken aufhört/schliesst. |
 | 10. | kann | Qualität | Ich als Spieler, möchte ich im Spiel, dass es farbig ist, damit es viel schöner aussieht. |
 
 ### 1.3 Testfälle
@@ -40,15 +40,15 @@ Der Computer wählt eine zufällige Zahl zwischen 1 bis 100, der Benutzer muss e
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1&2. | Programm startet | Benutzer gibt ein Zahl ein. | Programm gibt Himweise, ob die geratene Zahl grösser oder niedriger ist. |
-| 3&7. | Programm läuft weiter | Benuter gibt ein Zahl ein mit wenige Versuchen. | Programm zeigt Anzhal Versuche.|
-| 4. | Programm läuft weiter. Zweite versuch: | Benutzer gibt eine Zahl ein. | Programm gibt Hinweise, ob die geratene Zahl grösser/ niedriger ist. |
-| 4.1 | Programm läuft weiter|  Benutzer hat den richtigen Zahl geraten | Benutzer gibt ein Zahl ein | Programm zeigt, das die Benutzer die richtige Zahl rausgefunden hat. |
-| 5. | - | - | Geht nicht, weil ich das nicht programmiert habe.|
-| 6. | Programm läuft weiter. | Benutzer gibt eine Buchstabe. | Programm zeigt: Ungültige Eingabe. Bitte starten Sie das Spiel von vorne an. |
-| 8. | Programm läut weiter. Programm fragt ob die Benutzer wieder spielen möchte | Benutzer gibt Y ein | Das Spiel fängt von vorne an.|
-| 9. | Wiederholt sich das ganze. Programm fragt ob die Benutzer wieder spielen möchte | Benutzer gibt n ein | Progamm zeigt: Danke fürs mitspielen. |
-| 10. | Prgramm läuft weiter. | Benutzer spielt das ganze nochmal. | Das Programm soll farbig aussehen. |
+| 1&2. | Programm startet | Benutzer gibt eine Zahl ein. | Programm gibt Hinweise, ob die geratene Zahl grösser oder niedriger ist. |
+| 3&7. | Programm läuft weiter | Benutzer gibt eine Zahl ein mit wenige Versuchen. | Programm zeigt Anzahl Versuche.|
+| 4. | Programm läuft weiter. Zweite Versuch: | Benutzer gibt eine Zahl ein. | Programm gibt Hinweise, ob die geratene Zahl grösser/ niedriger ist. |
+| 4.1 | Programm läuft weiter|  Benutzer hat die richtige Zahl geraten | Benutzer gibt eine Zahl ein | Programm zeigt, dass die Benutzer die richtige Zahl rausgefunden hat. |
+| 5. | - | - | geht nicht, weil ich das nicht programmiert habe.|
+| 6. | Programm läuft weiter. | Benutzer gibt ein Buchstabe. | Programm zeigt: Ungültige Eingabe. Bitte starten Sie das Spiel von vorne an. |
+| 8. | Programm läuft weiter. Programm fragt, ob die Benutzer wieder spielen möchte | Benutzer gibt Y ein | Das Spiel fängt von vorne an.|
+| 9. | Wiederholt sich das Ganze. Programm fragt, ob die Benutzer wieder spielen möchte | Benutzer gibt n ein | Programm zeigt: Danke fürs Mitspielen. |
+| 10. | Programm läuft weiter. | Benutzer spielt das ganze nochmal. | Das Programm soll farbig aussehen. |
 
                           
 
@@ -76,7 +76,7 @@ Debugging
 | 10.| 08.09.2022 | Ich | Wenn der Spieler anstatt einer Zahl ein Buchstabe eingibt, soll das Programm sagen, dass das eine Ungültige Eingabe ist. | 30min |
 | 11.| 15.09.2022 | Ich | Nach ungültige Eingabe, muss man das Programm neustarten | 25 min|
 | 12.| 15.09.2022 | Ich | Probleme beheben, die von letzten Mal. | 40 min |
-| 13.| 15.09.2022 | Ich | Wenn man im Spiel dee korrekte Zahl herausgefunden hat, die richtige Zahl im grün markieren. | 30 min |
+| 13.| 15.09.2022 | Ich | Wenn man im Spiel die korrekte Zahl herausgefunden hat, die richtige Zahl im grün markieren. | 30 min |
 | 14.| 15.09.2022 | Ich | Wenn man im Spiel eine falsche Zahl eingibt, wird es mit Magenta Farbe markiert. | 20 min |
 | 15.| 15.09.2022 | Ich | Wenn man im Spiel soll den Satz "Danke für mitspielen..." mit gelb markieren. | 20 min |
 | 16.| 15.09.2022 | Ich | Das Probleme mit (wie viele versuche der Benutzer benötigt hat) lösen | 30 min |
@@ -138,7 +138,7 @@ Text Farbe
 
 
 
-Die Tests sind weitgehend erfolgreich verlaufen.
+Die Tests sind weitgehend erfolgreich verlaufen. Es bestehen lediglich 1 Fehler, welche störend wirken und behoben werden müssen. Das Zahlenspiel kann man weiterspielen. 
 
                                               
 ## 6 Auswerten
