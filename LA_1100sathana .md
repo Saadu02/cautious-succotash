@@ -134,4 +134,4 @@ Die Tests sind weitgehend erfolgreich verlaufen.
                                               
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+https://github.com/Saadu02/cautious-succotash/blob/main/LA_1100sathana%20.md
