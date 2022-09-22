@@ -16,7 +16,7 @@ Ich habe gelernt, das man im Projekt den Try Catch Ausnahmenbehandlung anwenden 
 
 Text: Wenn Benutzer etwas ungültiges eingibt wie zum Beispiel statt eine Zahl eine Buchstabe, wird das Programm gleich abstürzen. Um das zu verhindern, benutzen wir Try Catch. 
 Try catch ist eine Ausnahmenbehandlung. 
-Wie soll man das verwenden?
+Wie soll man das verwenden?  
 Zwischen Try und catch schreiben wir den Code, der im Programm ausführen soll. Nach dem catch soll man diesen Code Environment.Exit(0); und console.WriteLine("Ungültige Eingabe. Bitte starten Sie das Programm neu! ") schreiben.
 
 Bild: ![Screenshot](https://user-images.githubusercontent.com/111046257/191698454-5950f34d-3235-4c3c-87aa-eb191d1de192.png)
