@@ -25,20 +25,7 @@ Bild: ![Screenshot](https://user-images.githubusercontent.com/111046257/19169845
 
 * Ein gut dokumentierter Code-Fetzen
 
-'''Csharp
 
-int EingabeZahl;
-try
-{
-Console.WriteLine("Geben Sie eine Zahl ein: ")
-}
-catch
-{
-console.WriteLine("Ungültige Eingabe. Bitte starten Sie das Programm neu!"):
-Environment.Exit(0);
-}
-
-```
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
 ## Verifikation
