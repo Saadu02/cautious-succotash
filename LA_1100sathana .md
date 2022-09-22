@@ -58,7 +58,7 @@ Debugging
 
 ### 1.4 Diagramme
 
-![Zahlenspiel](https://user-images.githubusercontent.com/111046257/186751410-699f9f2b-d937-4d2a-97b6-4d9736ed40ac.png)
+![Zahlenspiel](https://user-images.githubusercontent.com/111046257/191668160-a1098be1-58aa-404a-89d4-04386c73df61.png)
 
 
 ## 2 Planen      
@@ -81,7 +81,7 @@ Debugging
 | 13.| 15.09.2022 | Ich | Wenn man im Spiel den korrekten Zahl herausgefunden hat, den richtigen Zahl im grün markieren. | 30 min |
 | 14.| 15.09.2022 | Ich | Wenn man im Spiel ein falschen Zahl eingibt, wird es mit magenda Farbe markiert. | 20 min |
 | 15.| 15.09.2022 | Ich | Wenn man im Spiel soll den Satz "Danke für mitspielen..." mit gelb markieren. | 20 min |
-| 16.| 15.09.2022 | Ich | Probleme mit versuche lösen | 30 min |
+| 16.| 15.09.2022 | Ich | Das Probleme mit (wie viele versuche der Benutzer benötigt hat) lösen | 30 min |
 
 Total: 
 
