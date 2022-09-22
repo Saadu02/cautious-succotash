@@ -48,5 +48,5 @@ Da ich im Homeschooling sehr gut konzentriert gearbeitet habe, konnte ich somit 
 👎 und etwas, was nicht gut lief.
 Im dritten Tag kam ich im Projekt nicht mehr weiter und brauchte Hilfe. Da mein Lernperson im Gepräch mit anderen Klassenkamerden war, hatte ich keine Gelegenheit gehabt Ihm zu fragen. 
 
-**VBV**: ✍️ Nächstes Mal werde ich meine Klassenkameraden fragen. 
+**VBV**: ✍️ Nächstes Mal wenn ich nicht mehr weiter komme im Projekt, werde ich meine Klassenkameraden fragen. 
 
