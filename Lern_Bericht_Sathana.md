@@ -22,9 +22,9 @@ Zwischen Try und catch schreiben wir den Code, der im Programm ausführen soll. 
 Bild: ![Screenshot](https://user-images.githubusercontent.com/111046257/191698454-5950f34d-3235-4c3c-87aa-eb191d1de192.png)
 
 
-* Ein gut dokumentierter Code-Fetzen
+Code:
 
-'''Csharp
+```csharp
 
 int EingabeZahl;
 try
@@ -33,14 +33,11 @@ Console.WriteLine("Geben Sie eine Zahl ein: ")
 }
 catch
 {
-console.WriteLine("Ungültige Eingabe. Bitte starten Sie das Programm neu!"):
+Console.WriteLine("Ungültige Eingabe. Bitte starten Sie das Programm neu!"):
 Environment.Exit(0);
 }
 
 ```
-
-
-
 
 
 
@@ -49,6 +46,7 @@ Environment.Exit(0);
 ## Verifikation
 
 ✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+
 
 # Reflexion zum Arbeitsprozess
 
