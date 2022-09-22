@@ -36,19 +36,15 @@ Der Computer wählt eine zufällige Zahl zwischen 1 bis 100, der Benutzer muss e
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1. | Code eingeben für den Satz|Console.Write("Wählen Sie eine Zahl aus zwischen 1 bis 100") |Wählen Sie eine Zahl aus zwischen 1 bis 100|
-| 2. | Programm laufen lassen  |Im Ergebnis eine Zahl eingeben |Wählen Sie eine Zahl aus zwischen 1 bis 100:___ |
-| 3. | Code für eine zufällige Zahl | int zufaelligezahl = new Random(). Next(1, 100); | Computer speichert eine zufällige Zahl |
-| 4. | Code eingeben, zufällige Zahl grösser oder kleiner | if zufaelligezahl ...... | Geratene Zahl muss grösser/kleiner sein. |
-| 5. | Code eingeben, wie viele versuche | Console.WriteLine("Du hast ___ versuche gebraucht") | Du hast ___ versuche gebraucht |
-| 6. | Code eingeben für den Schlussteil | Console.Write.Line("Bravo, du hast im Spiel mit ___ Versuche geschafft den richtige zufällige Zahl einzugeben")| Bravo! du hast im Spiel mit ___ Versuche geschafft die richtige zufällige Zahl einzugeben.
-| 7. | Code eingeben für ungültige Eingabe (try/catch) | try (code) -> chatch  Console.WriteLine("Ungültige Eingabe. Wähle Sie eine Zahl aus zwischen 1 bis 100"); Environment.Exit(0); | Ungültige Eingabe |
-| 8. | programm laufen lassen | Console.WriteLine("Bravo! Du hast im Spiel mit " + versuche + " Versuche geschafft die richtige zufällige Zahl herauszufinden.");| Bravo! Du hast im Spiel mit " + versuche + " Versuche geschafft die richtige zufällige Zahl herauszufinden.|
-| 9. | Code für Wiederholung | Console.Write("Möchten Sie noch Mals spielen? [y|n]: "); char Antwort = Convert.ToChar(Console.ReadLine());/ if and else | Möchten Sie noch Mals spielen? [y|n]:|
-| 10. | Code für ungültige Eingabe | (try Catch) |  Console.WriteLine("Ungültige Eingabe. Bitte starten Sie das Programm neu! "); | Ungültige Eingabe. Bitte starten Sie das Programm neu!|
-| 11. | Code für ungültige Eingabe | Environment.Exit(0); | Progamm schliesst |
-| 12. | Die Datentypen ändern |  i = zuefaelligeZahl.Next(1, 100); | Computer speichert neu zufällige Zahl |
-| 13. | Code für den Markierung | Console.ForegroundColor = ConsoleColor.Green;  Console.ResetColor(); | Farbe
+| 1. | Programm startet | Benutzer gibt ein Zahl ein. | Programm gibt Himweise, ob die geratene Zahl grösser oder niedriger ist. |
+| 2. | Programm läuft weiter. | Benutzer gibt eine Buchstabe. | Programm zeigt: Ungültige Eingabe. Bitte starten Sie das Spiel von vorne an. |
+
+| 3. | Programm läuft weiter. Zweite versuch: | Benutzer gibt eine Zahl ein. | Programm gibt Hinweise, ob die geratene Zahl grösser/ niedriger ist. |
+| 4. | Programm läuft weiter. Benutzer hat den richtigen Zahl geraten | Benutzer gibt ein Zahl ein | Programm zeigt, das die Benutzer die richtige Zahl rausgefunden hat. |
+| 5. | Programm läuft weiter. | Benutzer gibt die richtige Zahl ein | Programm zeigt, wie viele Versuche der Benutzer gebraucht hat. |
+| 6. | Programm läut weiter. Programm fragt ob die Benutzer wieder spielen möchte | Benutzer gibt Y ein | Das Spiel fängt von vorne an.|
+| 7. | Wiederholt sich das ganze. Programm fragt ob die Benutzer wieder spielen möchte | Benutzer gibt n ein | Progamm schliesst |
+
 
                             
 
@@ -131,16 +127,6 @@ Text Farbe
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
                                               
 ## 6 Auswerten
 
