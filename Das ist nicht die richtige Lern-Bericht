@@ -13,7 +13,7 @@ Ich habe gelernt, das man im Projekt den Try Catch Ausnahmenbehandlung anwenden 
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-
+ 
 Text: Wenn Benutzer etwas ungültiges eingibt wie zum Beispiel statt eine Zahl eine Buchstabe, wird das Programm gleich abstürzen. Um das zu verhindern, benutzen wir Try Catch. 
 Try catch ist eine Ausnahmenbehandlung. 
 Wie soll man das verwenden?  
