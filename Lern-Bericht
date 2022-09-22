@@ -20,7 +20,8 @@ Ich habe gelernt, das man im Projekt den Try Catch Ausnahmenbehandlung anwenden 
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
 
-'''CSHARP
+```csharp
+
 int EingabeZahl;
 try
 {
@@ -32,7 +33,7 @@ console.WriteLine("Ungültige Eingabe. Bitte starten Sie das Programm neu!"):
 Environment.Exit(0);
 }
 
-'''
+```
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
 ## Verifikation
