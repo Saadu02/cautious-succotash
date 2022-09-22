@@ -43,11 +43,9 @@ Der Computer wählt eine zufällige Zahl zwischen 1 bis 100, der Benutzer muss e
 | 4. | Programm läuft weiter. Benutzer hat den richtigen Zahl geraten | Benutzer gibt ein Zahl ein | Programm zeigt, das die Benutzer die richtige Zahl rausgefunden hat. |
 | 5. | Programm läuft weiter. | Benutzer gibt die richtige Zahl ein | Programm zeigt, wie viele Versuche der Benutzer gebraucht hat. |
 | 6. | Programm läut weiter. Programm fragt ob die Benutzer wieder spielen möchte | Benutzer gibt Y ein | Das Spiel fängt von vorne an.|
-| 7. | Wiederholt sich das ganze. Programm fragt ob die Benutzer wieder spielen möchte | Benutzer gibt n ein | Progamm schliesst |
+| 7. | Wiederholt sich das ganze. Programm fragt ob die Benutzer wieder spielen möchte | Benutzer gibt n ein | Progamm zeigt: Danke fürs mitspielen. |
 
-
-                            
-
+                          
 
 Debugging 
 
@@ -122,10 +120,16 @@ Text Farbe
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.0  |22.09.2022|OK|Sathana Suganthasri|
+| 2.0  |22.09.2022|OK|Sathana Suganthasri|
+| 3.0  |22.09.2022|OK|Sathana Suganthasri|
+| 4.0  |22.09.2022|OK|Sathana Suganthasri|
+| 5.0  |22.09.2022|OK|Sathana Suganthasri|
+| 6.0  |22.09.2022|OK|Sathana Suganthasri|
+| 7.0  |22.09.2022|OK|Sathana Suganthasri|
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+
+Die Tests sind weitgehend erfolgreich verlaufen.
 
                                               
 ## 6 Auswerten
