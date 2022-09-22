@@ -23,26 +23,32 @@ Der Computer wählt eine zufällige Zahl zwischen 1 bis 100, der Benutzer muss e
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1. | muss| Funktional| Ich als Spieler, möchte ich ein Hinweis haben, damit ich weiss, ob ich die erratene Zahl grösser ist. 
 | 2. | muss | Funktional | Ich als Spieler, möchte ich ein Hinweis haben, damit ich weiss, ob die erratene Zahl kleiner ist.
-| 3. | kann | Funktional | Ich als Spieler, möchte ich so weit wie möglich mit wenige versuche im Game eine Zahl einzugeben, damit ich den gleichen Ergebnissen habe wie der Computer.|
-| 4. | kann | Funktional | Ich als Spieler, möchte ich im Spiel, dass man auch mit Dezimalzahlen eingeben kann, damit das Spiel ein bisschen schwieriger wird.  |
+| 3. | kann | Funktional | Ich als Spieler, möchte ich so weit wie möglich mit wenige versuche im Spiel eine Zahl einzugeben, damit ich den gleichen Ergebnissen habe wie der Computer.|
+
+| 4. | muss | Funktional | Ich als Spieler, möchte ich erneut eine Zahl eingeben, damit ich nicht verlieren möchte.
+
 | 5. | kann | Funktional | Ich als Spieler, möchte ich im Spiel, das man auch die Zahlwörter eingeben kann, damit man das Spiel spannender macht. |
 | 6. | muss | Qualität | Ich als Spieler, möchte ich im Spiel, wenn ich irgendetwas schreibe, muss ein Message zeigen, dass es Ungültig ist, damit das Programm nicht gleich abstürtzt.| 
-| 7. | kann | Qualität | Ich als Spieler, möchte ich im Spiel, dass es farbig ist, damit es viel schöner aussieht. |
-| 8.| kann | Funktional | Ich als Spieler, möchte ich im Spiel, das es Anzahl Versuche zeigt, damit ich mit meine Lernpartnerin vergleichen kann.|
+
+| 7.| kann | Funktional | Ich als Spieler, möchte ich im Spiel, das es Anzahl Versuche zeigt, damit ich mit meine Lernpartnerin vergleichen kann.|
+| 8.| muss | Funktional | Ich als Spieler, möchte ich im Spiel noch einmal spielen, damit ich eine chance habe mit wenige Versuche zuspielen|
+| 9. | muss | Funktional | Ich als Spieler, möchte ich im Spiel, wenn ich nicht mehr Spielen möchte, dass der Programm zeigt "Danke fürs Mitspielen", damit das Spiel ohne zu bedanken aufhört/schliesst. |
+| 10. | kann | Qualität | Ich als Spieler, möchte ich im Spiel, dass es farbig ist, damit es viel schöner aussieht. |
 
 ### 1.3 Testfälle
 
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1. | Programm startet | Benutzer gibt ein Zahl ein. | Programm gibt Himweise, ob die geratene Zahl grösser oder niedriger ist. |
-| 2. | Programm läuft weiter. | Benutzer gibt eine Buchstabe. | Programm zeigt: Ungültige Eingabe. Bitte starten Sie das Spiel von vorne an. |
-
-| 3. | Programm läuft weiter. Zweite versuch: | Benutzer gibt eine Zahl ein. | Programm gibt Hinweise, ob die geratene Zahl grösser/ niedriger ist. |
-| 4. | Programm läuft weiter. Benutzer hat den richtigen Zahl geraten | Benutzer gibt ein Zahl ein | Programm zeigt, das die Benutzer die richtige Zahl rausgefunden hat. |
-| 5. | Programm läuft weiter. | Benutzer gibt die richtige Zahl ein | Programm zeigt, wie viele Versuche der Benutzer gebraucht hat. |
-| 6. | Programm läut weiter. Programm fragt ob die Benutzer wieder spielen möchte | Benutzer gibt Y ein | Das Spiel fängt von vorne an.|
-| 7. | Wiederholt sich das ganze. Programm fragt ob die Benutzer wieder spielen möchte | Benutzer gibt n ein | Progamm zeigt: Danke fürs mitspielen. |
+| 1&2. | Programm startet | Benutzer gibt ein Zahl ein. | Programm gibt Himweise, ob die geratene Zahl grösser oder niedriger ist. |
+| 3&7. | Programm läuft weiter | Benuter gibt ein Zahl ein mit wenige Versuchen. | Programm zeigt Anzhal Versuche.|
+| 4. | Programm läuft weiter. Zweite versuch: | Benutzer gibt eine Zahl ein. | Programm gibt Hinweise, ob die geratene Zahl grösser/ niedriger ist. |
+| 4.1 | Programm läuft weiter|  Benutzer hat den richtigen Zahl geraten | Benutzer gibt ein Zahl ein | Programm zeigt, das die Benutzer die richtige Zahl rausgefunden hat. |
+| 5. | - | - | Geht nicht, weil ich das nicht programmiert habe.|
+| 6. | Programm läuft weiter. | Benutzer gibt eine Buchstabe. | Programm zeigt: Ungültige Eingabe. Bitte starten Sie das Spiel von vorne an. |
+| 8. | Programm läut weiter. Programm fragt ob die Benutzer wieder spielen möchte | Benutzer gibt Y ein | Das Spiel fängt von vorne an.|
+| 9. | Wiederholt sich das ganze. Programm fragt ob die Benutzer wieder spielen möchte | Benutzer gibt n ein | Progamm zeigt: Danke fürs mitspielen. |
+| 10. | Prgramm läuft weiter. | Benutzer spielt das ganze nochmal. | Das Programm soll farbig aussehen. |
 
                           
 
@@ -123,14 +129,18 @@ Text Farbe
 | 2.0  |22.09.2022|OK|Sathana Suganthasri|
 | 3.0  |22.09.2022|OK|Sathana Suganthasri|
 | 4.0  |22.09.2022|OK|Sathana Suganthasri|
-| 5.0  |22.09.2022|OK|Sathana Suganthasri|
+| 5.0  |22.09.2022|NOK|Sathana Suganthasri|
 | 6.0  |22.09.2022|OK|Sathana Suganthasri|
 | 7.0  |22.09.2022|OK|Sathana Suganthasri|
+| 8.0  |22.09.2022|OK|Sathana Suganthasri|
+| 9.0  |22.09.2022|OK|Sathana Suganthasri|
+| 10.0 |22.09.2022|OK|Sathana Suganthasri|
+
 
 
 Die Tests sind weitgehend erfolgreich verlaufen.
 
                                               
 ## 6 Auswerten
-
+https://github.com/Saadu02/cautious-succotash/blob/main/Lern_Bericht_Sathana.md
 
