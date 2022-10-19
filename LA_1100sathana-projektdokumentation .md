@@ -25,7 +25,7 @@ Der Computer wählt eine zufällige Zahl zwischen 1 bis 100, der Benutzer muss e
 | 2. | muss | Funktional | Ich als Spieler, möchte ich ein Hinweis haben, damit ich weiss, ob die erratene Zahl kleiner ist.
 | 3. | kann | Funktional | Ich als Spieler, möchte ich so weit wie möglich mit wenige versuche im Spiel eine Zahl einzugeben, damit ich den gleichen Ergebnissen habe wie der Computer.|
 
-| 4. | muss | Funktional | Ich als Spieler, möchte ich erneut eine Zahl eingeben, damit ich nicht verlieren möchte.
+| 4. | muss | Funktional | Ich als Spieler, möchte ich erneut eine Zahl eingeben, damit ich nicht verlieren möchte.|
 
 | 5. | kann | Funktional | Ich als Spieler, möchte ich im Spiel, das man auch die Zahlwörter eingeben kann, damit man das Spiel spannender macht. |
 | 6. | muss | Qualität | Ich als Spieler, möchte ich im Spiel, wenn ich irgendetwas schreibe, muss ein Message zeigen, dass es Ungültig ist, damit das Programm nicht gleich abstürzt.| 
